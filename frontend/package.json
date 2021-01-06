@@ -7,7 +7,7 @@
     "build": "vue-cli-service build --dest ../backend/public"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "chart.js": "^2.9.3",
     "core-js": "^3.3.2",
     "dns": "^0.2.2",
